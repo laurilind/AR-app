@@ -1,0 +1,4 @@
+#Mon Apr 25 18:34:24 EEST 2022
+base.0=C\:\\Users\\lindl\\Image Tracking\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
